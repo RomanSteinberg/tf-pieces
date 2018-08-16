@@ -8,4 +8,4 @@ functionality usage.
 - `ke_estimator_datasets.py`: tf.keras ResNet50 classifier based on pretrained weights and implemented 
 using tf.estimator.Estimator and tf.data.Datasets.
 - `streaming.py`: streaming metrics usage.
-
+- `slim_resnet_inference.py`: slim ResNet50 classifier inference which uses Imagenet pretrained weights.  
