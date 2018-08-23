@@ -1,5 +1,5 @@
 # Piece:
-#   TensorFlow streaming metrics workflow
+#   TensorFlow-slim ResNet inference
 #
 # watermark:
 #   CPython 3.6.6
